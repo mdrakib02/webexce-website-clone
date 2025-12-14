@@ -27,6 +27,7 @@ export default function Home() {
       <ProcessSection />
       <ContactSection />
       <Footer />
+      {/* Footer sections */}
     </main>
   )
 }
